@@ -34,6 +34,6 @@ I'm a QA Engineer passionate about bug hunting through both manual and automated
 ## 📫 Let's Connect!
 - 🌐 [LinkedIn](https://linkedin.com/in/putrilarasxx)
 - 💼 [Portfolio](https://putrilarasxx.github.io/portfolio/)
-- 📩 [Email](putrilarasati440@gmail.com)
+- 📩 [Email](mailto:putrilarasati440@gmail.com)
 
 _Thanks for visiting my profile!_
