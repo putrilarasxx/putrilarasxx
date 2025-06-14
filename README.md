@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Putri Larasati
 
-Welcome to my GitHub profile 👨‍💻  
-I'm passionate about bug hunting through manual and automated testing. Currently learning and growing through hands-on projects.
+Welcome to my GitHub profile 👨‍💻
+
+I'm a QA Engineer passionate about bug hunting through both manual and automated testing. Currently learning and growing through hands-on projects.
 
 ---
 
